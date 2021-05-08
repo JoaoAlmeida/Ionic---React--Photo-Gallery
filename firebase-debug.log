@@ -1,0 +1,27 @@
+[debug] [2021-02-24T17:00:15.423Z] ----------------------------------------------------------------------
+[debug] [2021-02-24T17:00:15.425Z] Command:       D:\aplicativos\nodejs\node.exe C:\Users\jpalm\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-02-24T17:00:15.425Z] CLI Version:   9.5.0
+[debug] [2021-02-24T17:00:15.425Z] Platform:      win32
+[debug] [2021-02-24T17:00:15.425Z] Node Version:  v14.15.4
+[debug] [2021-02-24T17:00:15.426Z] Time:          Wed Feb 24 2021 14:00:15 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2021-02-24T17:00:15.426Z] ----------------------------------------------------------------------
+[debug] [2021-02-24T17:00:15.426Z] 
+[debug] [2021-02-24T17:00:15.431Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\jpalm\Documents\photo-gallery
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
